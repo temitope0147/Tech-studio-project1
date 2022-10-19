@@ -1,0 +1,68 @@
+
+/* h1{
+    color: blue;
+    font-size: 80px;
+    padding: 2% 2%;
+}
+.form{
+    display: flexbox;
+    border: 1px solid black;
+    width: 300px;
+    border-radius: 10px;
+    height: 240px;
+    position: relative;
+    background-position: right;
+    padding: 10% 4%
+    margin-top: 10px;
+   
+}
+.flex{
+    width: 0%;
+    flex-basis: 0%;
+    margin-top: 100px;
+    background-position: right;
+}
+#one, #two  {
+    width: 280px;
+    height: 25px;
+    margin-top: 13px;
+    line-height: 50%;
+    justify-content: space-between;
+    padding: 1% 2%;
+}
+
+#hot {
+    width: 280px;
+    height: 50px;
+    font-weight: 50%;
+   
+    border-radius: 5px;
+    font-size: 13px;
+    color: white;
+    background-color: rgb(89, 89, 219);
+    background-position: left;
+    padding: 5% 7%;
+    margin-top: 15px;
+    height: 25px;
+    justify-content: space-around;
+}
+#dot {
+    width: 213px;
+    background-color: rgb(115, 182, 16);
+    color: white;
+    font-size: 18px;
+    border-radius: none;
+    text-align: justify;
+    margin: 5px;
+    justify-content: space-around; 
+    padding: 3% 5%;
+}
+.four {
+    margin-top: 15px;
+}
+
+
+
+
+
+ */
