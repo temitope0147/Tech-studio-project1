@@ -37,7 +37,7 @@
 } 
 .wrapper{
     display: flex;
-    background-image: url(../project/project1\ images/twelve.jpg);
+    background-image: url(../project/project1\ images/IMG-twelve.jpg);
     justify-content: space-around;
     height: 400px;
     color: white;
@@ -234,6 +234,7 @@
 }
 .show{
     font-size: 17px;
+    
 }
 .line4 .show{
     width: 40px;
@@ -247,14 +248,17 @@
 .base{
     display: flex;
     margin-top: 60px;
-    justify-content: space-around;
+    justify-content: space-between;
     margin-top: 100px;
+
 }
-.base .base3{
-    justify-content: space-around;
+.not .line7{
+    justify-content: center;
+    line-height: 20px;
 }
-.career{
-    
+
+{
+    display: flex;
 }
     
 .line7 {
@@ -263,7 +267,10 @@
     background-color: blue;
     text-align: center;
     margin-left: 600px;
-
+}
+.arc img{
+    background-position: left;
+}
 
 
 
